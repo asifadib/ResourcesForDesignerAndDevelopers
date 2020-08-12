@@ -38,6 +38,25 @@
 
 # ভিডিও ও অ্যানিমেশন ওয়েবসাইট
 
+[Lottie Files](https://lottiefiles.com/)
+
+[Pexels Videos](https://www.pexels.com/videos/)
+
+[Pixabay Videos](https://pixabay.com/videos/)
+
+[Coverr](https://coverr.co/)
+
+[Videezy](https://www.videezy.com/)
+
+[Videvo](https://www.videvo.net/stock-video-footage/)
+
+[Mixkit](https://mixkit.co/free-stock-video/)
+
+[Life Of Vids](https://www.lifeofvids.com/)
+
+
+
+# গ্রাফিক্স এবং ভেক্টর ওয়েবসাইট
 
 
 
