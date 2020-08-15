@@ -113,7 +113,7 @@
 
 [Material Icon](https://material.io/resources/icons/)
 
-[Fontawesome](https://fontawesome.com/)
+[Feathericons](https://feathericons.com/)
 
 [Fontawesome](https://fontawesome.com/)[Fontawesome](https://fontawesome.com/)
 
