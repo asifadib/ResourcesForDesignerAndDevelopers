@@ -109,5 +109,12 @@
 
 [Fontawesome](https://fontawesome.com/)
 
+[Shapedfonts Iconclub](https://shapedfonts.com/iconclub/)
+
+[Fontawesome](https://fontawesome.com/)
+
+[Fontawesome](https://fontawesome.com/)
+
+[Fontawesome](https://fontawesome.com/)[Fontawesome](https://fontawesome.com/)
 
 
