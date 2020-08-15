@@ -111,7 +111,7 @@
 
 [Shapedfonts Iconclub](https://shapedfonts.com/iconclub/)
 
-[Fontawesome](https://fontawesome.com/)
+[Material Icon](https://material.io/resources/icons/)
 
 [Fontawesome](https://fontawesome.com/)
 
