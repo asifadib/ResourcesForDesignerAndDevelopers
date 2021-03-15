@@ -125,5 +125,5 @@
 
 [Get Waves](https://getwaves.io/)
 [SVG shapes Create](https://www.blobmaker.app/)
-[Get Waves](https://getwaves.io/)
+[Various Waves](https://app.haikei.app/)
 [Get Waves](https://getwaves.io/)
