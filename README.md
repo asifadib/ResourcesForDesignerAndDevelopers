@@ -14,6 +14,7 @@
 <li><a href='#'>আইকন ওয়েবসাইট</a></li>
 <li><a href='#'>ফন্ট ওয়েবসাইট তালিকা</a></li>
 <li><a href='#'>টেমপ্লেট, স্ক্রিপ্ট এবং গ্রন্থাগার ওয়েবসাইট</a></li>
+<li><a href='#'>কালার সিলেকশন</a></li>
 <li><a href='#'>আরও সংস্থান</a></li>
 </ol>
 
@@ -120,3 +121,9 @@
 [Icons8](https://icons8.com/)
 
 
+# অন্যান্য সাইট লিংক ক্যাটাগরি করতে হবে
+
+[Get Waves](https://getwaves.io/)
+[SVG shapes Create](https://www.blobmaker.app/)
+[Get Waves](https://getwaves.io/)
+[Get Waves](https://getwaves.io/)
