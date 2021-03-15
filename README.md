@@ -126,4 +126,4 @@
 [Get Waves](https://getwaves.io/)
 [SVG shapes Create](https://www.blobmaker.app/)
 [Various Waves](https://app.haikei.app/)
-[Get Waves](https://getwaves.io/)
+[Css Cliping Path Maker](https://bennettfeely.com/clippy)
